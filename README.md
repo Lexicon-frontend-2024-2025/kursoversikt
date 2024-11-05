@@ -13,6 +13,7 @@ Under de första fem veckorna behandlar kursen grundläggande HTML och CSS. Ni u
 Veckoscheman:
 * [Vecka 48](https://github.com/Lexicon-frontend-2024-2025/schema-vecka-48)
 * [Vecka 49](https://github.com/Lexicon-frontend-2024-2025/schema-vecka-49)
+* [Vecka 50](https://github.com/Lexicon-frontend-2024-2025/schema-vecka-50)
 
 ## Agila projektmetoder _( 1 veckor )_
 
