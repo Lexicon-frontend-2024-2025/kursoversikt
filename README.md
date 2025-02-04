@@ -40,7 +40,7 @@ Under dessa sju veckor fokuserar kursen på React och Next.js (App Router) för 
 
 Veckoscheman:
 
-## Agila projektmetoder _( 1 veckor )_
+## Agila projektmetoder _( 1 vecka )_
 
 Denna vecka ger en introduktion till agila metoder med fokus på SCRUM. Vi utforskar agila principer som flexibilitet och ständig förbättring. Ni lär er om olika roller inom ett agilt team och hur dessa samverkar för att effektivt driva projekt med ett resultatorienterad mindset.
 
