@@ -21,13 +21,19 @@ Denna vecka ger en omfattande introduktion till agila metoder med fokus på SCRU
 
 Veckoscheman:
 
-## JavaScript _( 6 veckor )_
+## JavaScript _( 4 veckor )_
+
+Kursen ägnar sex veckor åt JavaScript, från grundläggande syntax och datatyper till mer avancerade funktkioner och asynkron programmering. Ni kommer även att lära sig om DOM-manipulering vilket är essentiellt för att skapa interaktiva användaruppleverlser på webben.
+
+Veckoscheman:
+
+## Typescript _( 1 vecka )_
 
 Kursen ägnar sex veckor åt JavaScript, från grundläggande syntax och datatyper till mer avancerade funktkioner och asynkron programmering. Ni kommer även att lära sig om DOM-manipulering vilket är essentiellt för att skapa interaktiva användaruppleverlser på webben.
 
 Veckoscheman:
   
-## React _( 6 veckor )_
+## React _( 7 veckor )_
 
 Under dessa sex veckor fokuserar kusern på React för att utveckla användargränssnitt. Ni skapar och hanterar komponenter, använder props för dataflöden samt implementerar hooks för utnyttja Reacts fulla potential. Kursen inkluderar även routing och global data-hantering i form av React Router och Context/Redux. För att utveckla er frontend-kompetens kommer även SASS, CSS-Ramverk och TypeScript introduceras.
 
