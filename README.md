@@ -14,28 +14,35 @@ Veckoscheman:
 * [Vecka 48](https://github.com/Lexicon-frontend-2024-2025/schema-vecka-48)
 * [Vecka 49](https://github.com/Lexicon-frontend-2024-2025/schema-vecka-49)
 * [Vecka 50](https://github.com/Lexicon-frontend-2024-2025/schema-vecka-50)
-
-## Agila projektmetoder _( 1 veckor )_
-
-Denna vecka ger en omfattande introduktion till agila metoder med fokus på SCRUM. Ni utforskar agila principer som flexibilitet och ständig förbättring. Ni lär er om olika roller inom ett agilt team och hur dessa samverkar för att effektivt driva projekt med ett resultatorienterad mindset.
-
-Veckoscheman:
+* [Vecka 51](https://github.com/Lexicon-frontend-2024-2025/schema-vecka-51)
+* [Vecka 52](https://github.com/Lexicon-frontend-2024-2025/schema-vecka-52)
 
 ## JavaScript _( 4 veckor )_
 
 Kursen ägnar sex veckor åt JavaScript, från grundläggande syntax och datatyper till mer avancerade funktkioner och asynkron programmering. Ni kommer även att lära sig om DOM-manipulering vilket är essentiellt för att skapa interaktiva användaruppleverlser på webben.
 
 Veckoscheman:
+* [Vecka 2](https://github.com/Lexicon-frontend-2024-2025/schema-vecka-2)
+* [Vecka 3](https://github.com/Lexicon-frontend-2024-2025/schema-vecka-3)
+* [Vecka 4](https://github.com/Lexicon-frontend-2024-2025/schema-vecka-4)
+* [Vecka 5](https://github.com/Lexicon-frontend-2024-2025/schema-vecka-5)
 
 ## Typescript _( 1 vecka )_
 
 Kursen ägnar en vecka åt Typescript.
 
 Veckoscheman:
+* [Vecka 6](https://github.com/Lexicon-frontend-2024-2025/schema-vecka-6)
   
 ## React _( 7 veckor )_
 
 Under dessa sex veckor fokuserar kusern på React för att utveckla användargränssnitt. Ni skapar och hanterar komponenter, använder props för dataflöden samt implementerar hooks för utnyttja Reacts fulla potential. Kursen inkluderar även routing och global data-hantering i form av React Router och Context/Redux. För att utveckla er frontend-kompetens kommer även SASS, CSS-Ramverk och TypeScript introduceras.
+
+Veckoscheman:
+
+## Agila projektmetoder _( 1 veckor )_
+
+Denna vecka ger en omfattande introduktion till agila metoder med fokus på SCRUM. Ni utforskar agila principer som flexibilitet och ständig förbättring. Ni lär er om olika roller inom ett agilt team och hur dessa samverkar för att effektivt driva projekt med ett resultatorienterad mindset.
 
 Veckoscheman:
   
