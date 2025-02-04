@@ -36,7 +36,7 @@ Veckoscheman:
   
 ## React _( 7 veckor )_
 
-Under dessa sex veckor fokuserar kusern på React för att utveckla användargränssnitt. Ni skapar och hanterar komponenter, använder props för dataflöden samt implementerar hooks för utnyttja Reacts fulla potential. Kursen inkluderar även routing och global data-hantering i form av React Router och Context/Redux. För att utveckla er frontend-kompetens kommer även SASS, CSS-Ramverk och TypeScript introduceras.
+Under dessa sju veckor fokuserar kusern på React för att utveckla användargränssnitt. Ni skapar och hanterar komponenter, använder props för dataflöden samt implementerar hooks för utnyttja Reacts fulla potential. Kursen inkluderar även routing och global data-hantering i form av React Router och Context/Redux. För att utveckla er frontend-kompetens kommer även SASS, CSS-Ramverk och TypeScript introduceras.
 
 Veckoscheman:
 
