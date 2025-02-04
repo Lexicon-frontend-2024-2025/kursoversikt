@@ -29,7 +29,7 @@ Veckoscheman:
 
 ## Typescript _( 1 vecka )_
 
-Kursen ägnar sex veckor åt JavaScript, från grundläggande syntax och datatyper till mer avancerade funktkioner och asynkron programmering. Ni kommer även att lära sig om DOM-manipulering vilket är essentiellt för att skapa interaktiva användaruppleverlser på webben.
+Kursen ägnar en vecka åt Typescript.
 
 Veckoscheman:
   
